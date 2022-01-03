@@ -7,6 +7,7 @@
 )](https://www.instagram.com/gab.dev_space/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )](https://curriculo-gabriel-mello.web.app/)
+
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabmellofull&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmellofull&layout=compact)](https://github.com/gabmellofull/github-readme-stats)
 
