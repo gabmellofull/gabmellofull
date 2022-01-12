@@ -8,9 +8,10 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )](https://curriculo-gabriel-mello.web.app/)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabmellofull&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmellofull&layout=compact)](https://github.com/gabmellofull/github-readme-stats)
-
+<a href="https://github.com/gabmellofull">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabmellofull&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmellofull&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que utilizo no dia a dia 
 
@@ -22,5 +23,7 @@
 <img align="center" alt="type" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/gabmellofull/gabmellofull/blob/output/github-contribution-grid-snake.svg)
 
 
